@@ -1,5 +1,5 @@
 # 🎉 Teachers' Day Message Card for Sir Randy Bello
-
+https://synccevl.github.io/Teachers-Day-Message-Card/
 ## 📖 Project Description
 
 This project is a personalized Teachers' Day Message Card created using
@@ -47,18 +47,6 @@ TeachersDayCard/
 - Floating sparkle animations.
 - Responsive design for desktop and mobile devices.
 - Simple and user-friendly interface.
-
-## 🚀 How to Run the Project
-
-1. Download or copy all the project files.
-2. Place all files inside one folder named `TeachersDayCard`.
-3. Make sure the teacher's picture is named `sir-randy-bello.jpg`.
-4. Open the project folder.
-5. Double-click `index.html` to open the card in your web browser.
-6. Click the "Click for a Special Thank You" button to see the
-   interactive effects.
-
-No additional software installation is required to run the project.
 
 ## 💌 Sample Appreciation Message
 
